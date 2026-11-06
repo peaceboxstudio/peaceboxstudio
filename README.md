@@ -3,7 +3,7 @@
 Games and software from Lahore, Pakistan.
 
 ## Games
-- [Reef Rivals: Kart Racing](https://www.peaceboxstudio.com/reef-rivals): underwater kart racing for Android, in closed testing
+- [Reef Rivals: Kart Racing](https://www.peaceboxstudio.com/reef-rivals): underwater kart racing for Android, in closed testing. Free Android test (13+): https://www.peaceboxstudio.com/reef-rivals#test
 
 ## Apps
 - [Amalify](https://www.peaceboxstudio.com/amalify): track salah, Qur'an and good deeds, earn XP and level up
