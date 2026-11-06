@@ -1,16 +1,16 @@
-## Hi there 👋
+# Peacebox Studio
 
-<!--
-**peaceboxstudio/peaceboxstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Games and software from Lahore, Pakistan.
 
-Here are some ideas to get you started:
+## Games
+- [Reef Rivals: Kart Racing](https://www.peaceboxstudio.com/reef-rivals): underwater kart racing for Android, in closed testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Apps
+- [Amalify](https://www.peaceboxstudio.com/amalify): track salah, Qur'an and good deeds, earn XP and level up
+- [Little Forever](https://www.peaceboxstudio.com/little-forever): a private baby journal for photos, voices and milestones
+
+## Work with us
+We build games, mobile apps and business software: https://www.peaceboxstudio.com
+
+## Say hello
+[Discord](https://discord.gg/t6wkMAHpKd) · [LinkedIn](https://www.linkedin.com/company/peaceboxstudio) · [YouTube](https://www.youtube.com/@PeaceboxStudioPk)
